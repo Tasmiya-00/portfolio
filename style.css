@@ -174,20 +174,7 @@ h3 {
   margin-top: 8px;
 }
 
-.projects {
-  grid-template-columns: repeat(3, 1fr);
-}
 
-.project-icon {
-  height: 120px;
-  background: linear-gradient(135deg, #29243f, #484064);
-  border-radius: 9px;
-  display: grid;
-  place-items: center;
-  font-size: 48px;
-  color: #d8baff;
-  margin-bottom: 18px;
-}
 
 .tag {
   display: inline-block;
